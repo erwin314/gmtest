@@ -1,0 +1,2 @@
+# gmtest
+test for GameMaker
